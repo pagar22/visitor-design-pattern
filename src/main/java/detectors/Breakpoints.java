@@ -1,5 +1,3 @@
-//Aaryan Pagar 2597573P
-
 package detectors;
 
 import java.util.ArrayList;
